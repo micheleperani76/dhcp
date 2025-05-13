@@ -2,7 +2,7 @@
 
 # =====================================================================
 # dhcp-failover-manager.sh - Gestore del server DHCP di backup con failover
-# Autore: (Basato sul progetto originale)
+# Autore: Michele Perani
 # Data: Maggio 2025
 # Versione: 1.0
 # =====================================================================
